@@ -1,5 +1,3 @@
-# javascriptproblem
-
 # JAVASCRIPT-CODING QUESTIONS
 
 ## 1️⃣ Deep Merge Objects
